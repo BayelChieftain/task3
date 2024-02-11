@@ -51,7 +51,6 @@ class Game {
                 'right': '|', 'right-mid': '+', 'middle': '|'
             },
             style: { 'padding-left': 1, 'padding-right': 1, align: 'center' },
-            // colWidths: [14, 6, 7, 7, 8, 10]
             colWidths: [14]
         });
 
